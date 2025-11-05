@@ -25,6 +25,7 @@ Mumbai University, India
 ---
 
 ## 💼 **Key Projects**
+- **MasalaAI:** An AI-powered multi-agent system for personalized cooking.
 - **Solar Panel Health Monitoring:** Improved failure detection accuracy using deep learning models.
 - **Website Domain Classification:** Implemented NLP algorithms for domain categorization with research publication.
 - **Intraday Algo-Trading Bot:** Built an automated trading system achieving a **17.89% annual compounded profit**.
