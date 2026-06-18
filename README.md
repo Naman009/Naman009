@@ -33,8 +33,8 @@ Mumbai University, India
 ---
 
 ## 🌟 **Fun Fact About Me**
-I'm not just about numbers and algorithms—I’m also a **Red Cross Certified Swimming Instructor** and love teaching swimming during the summers!
-I also love to play Badminton & Chess, going for biking/hiking and adventure activities.
+I'm not just about numbers and algorithms—I’m also a **Red Cross Certified Swimming Instructor** and enjoy swimming!
+I also love playing Badminton & Chess, going for biking/hiking and adventure activities.
 
 ---
 
