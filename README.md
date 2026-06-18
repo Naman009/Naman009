@@ -5,7 +5,7 @@ I'm a **Data** and **AI Enthusiast** with a knack for solving complex problems u
 ---
 
 ## 🛠️ **Professional Highlights**
-- 📊 **Data Science & Analytics:** Skilled in data visualization, statistical modeling, and deriving actionable insights.
+- 📊 **Data & Analytics:** Skilled in data visualization, data engineering, statistical modeling, and deriving actionable insights.
 - 🤖 **Machine Learning & AI:** Hands-on experience with supervised and unsupervised ML models, NLP techniques, and deep learning architectures.
 - 🌐 **Website Domain Classification:** Developed an NLP-based model to classify website domains, culminating in a published research paper. [An Improvised Approach for Website Domain Classification](https://ieeexplore.ieee.org/document/10039588)
 - 💻 **Full-Stack Solutions:** Built robust web applications and automated workflows using **Python, Flask, and SQL**.
