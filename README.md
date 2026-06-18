@@ -1,6 +1,6 @@
 ## 👋 **Hey there, I'm Naman Vipul Shah!**
 
-I'm a **Data Science** and **AI Enthusiast** with a knack for solving complex problems using data-driven insights. From analyzing financial markets to utlizing ML for complex problems, I thrive on blending creativity with analytical thinking to create impactful solutions.
+I'm a **Data** and **AI Enthusiast** with a knack for solving complex problems using data-driven insights. From analyzing financial markets to utlizing ML for complex problems, I thrive on blending creativity with analytical thinking to create impactful solutions.
 
 ---
 
